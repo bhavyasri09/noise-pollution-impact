@@ -33,12 +33,13 @@ This work is licensed under Creative Commons Zero v1.0 Universal, allowing unres
 
 For queries, contributions, or collaboration, feel free to reach out:
 📧 Email: pattapubhavyasri@gmail.com
-![Uploading image.png…]()
-![image](https://github.com/user-attachments/assets/18e0ba67-a2e1-4296-8462-caca72c5b558)
-![image](https://github.com/user-attachments/assets/8dbdc8f4-d46c-4851-9022-a4fa1f785899)
-![image](https://github.com/user-attachments/assets/79d8b908-331c-43ae-b9f2-87724805f721)
-![image](https://github.com/user-attachments/assets/498c7558-e3a2-4862-a074-88b4566495a7)
-![image](https://github.com/user-attachments/assets/920e1cc5-bf89-4ce8-8d43-cc48697f484b)
+
+<img src="https://github.com/user-attachments/assets/2897a608-fa7d-43a7-bb83-bcf2aaf97f55" width="400"/>
+<img src="https://github.com/user-attachments/assets/18e0ba67-a2e1-4296-8462-caca72c5b558" width="400"/>
+<img src="https://github.com/user-attachments/assets/8dbdc8f4-d46c-4851-9022-a4fa1f785899" width="400"/>
+<img src="https://github.com/user-attachments/assets/79d8b908-331c-43ae-b9f2-87724805f721" width="400"/>
+<img src="https://github.com/user-attachments/assets/498c7558-e3a2-4862-a074-88b4566495a7" width="400"/>
+<img src="https://github.com/user-attachments/assets/920e1cc5-bf89-4ce8-8d43-cc48697f484b" width="400"/>
 
 
 
