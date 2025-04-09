@@ -8,7 +8,7 @@ This repository contains our conference paper, which explores the relationship b
 
 📄 Paper Details
 	•	Title: Analyzing the Impact of Noise Pollution on Mental Health Using Crowdsourced Data
-	•	Authors: P.Bhavya Sri,K.Akshaya,T.Sindhuja
+	•	Authors:K.Akshaya,P.Bhavya Sri,T.Sindhuja
 	•	Year: 2025
 
 🔍 Abstract
