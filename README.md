@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6c5af14d-d9dd-4cb0-8139-3d6ee4d341e6)Noise Pollution Impact
+Noise Pollution Impact
 
 Conference Paper: Analyzing the Impact of Noise Pollution on Mental Health Using Crowdsourced Data
 
